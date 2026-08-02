@@ -26,6 +26,7 @@ After Data Exploration with SQL, I started working on Analysing the Data with SQ
 9. Visual Analysis (Histogram & Scatter Plot):
 Price Range vs. Rating Scatter: Demonstrates a positive relationship ($r = 0.46$), where higher price tiers (Price Range 3–4) consistently maintain higher average ratings ($\approx 3.7 - 3.8$) compared to budget restaurants ($\approx 2.4$).
 Votes vs. Rating Scatter: Shows that review volume scales exponentially with customer satisfaction—top-rated restaurants ($4.5 - 5.0$) average ~914 votes, whereas low-rated ones ($\le 2.0$) average only ~1.5 votes.
+
 Histogram on Rating VS Restaurant count and on Average_Cost_for_two VS Restaurant count.
 
 11. CONTIGENCY TABLE on Price_range and Has_Online_delivery   
