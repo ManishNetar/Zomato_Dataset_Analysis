@@ -28,5 +28,5 @@ Price Range vs. Rating Scatter: Demonstrates a positive relationship ($r = 0.46$
 Votes vs. Rating Scatter: Shows that review volume scales exponentially with customer satisfaction—top-rated restaurants ($4.5 - 5.0$) average ~914 votes, whereas low-rated ones ($\le 2.0$) average only ~1.5 votes.
 Histogram on Rating VS Restaurant count and on Average_Cost_for_two VS Restaurant count.
 
-11. CONTIGENCY TABLE on Price_range and Has_Online_delivery   
+10. CONTIGENCY TABLE on Price_range and Has_Online_delivery   
 
